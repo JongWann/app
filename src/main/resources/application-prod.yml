@@ -1,0 +1,7 @@
+server:
+  port: 8080
+wx:
+  token: 123456
+  server: https://sh.api.weixin.qq.com/cgi-bin
+  appID:  wxe187b6f50a9d4fda
+  appsecret: 63df2531cdc252a6efe7d1703083e6ba
